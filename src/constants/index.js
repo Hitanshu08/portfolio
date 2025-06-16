@@ -153,6 +153,32 @@ const experiences = [
   },
 ];
 
+const testimonials = [
+//   {
+//     testimonial:
+//       "Hitanshu was an outstanding web developer intern who showed impressive technical skills and a willingness to learn. They were a valuable asset to our team, and I highly recommend them to any future employer.",
+//     name: "Sara Lee",
+//     designation: "CFO",
+//     company: "Suven Technologies",
+//     image: "https://randomuser.me/api/portraits/women/4.jpg",
+//   },
+//   {
+//     testimonial:
+//       "It was a pleasure working with Hitanshu, our web developer intern. They showed great initiative and demonstrated strong problem-solving abilities. I have no doubt they will continue to excel in their future endeavors.",
+//     name: "Chris Brown",
+//     designation: "COO",
+//     company: "VIEH group",
+//     image: "https://randomuser.me/api/portraits/men/5.jpg",
+//   },
+//   {
+//     testimonial:
+//       "We were impressed with Hitanshu's technical skills and ability to work well in a team. They were a quick learner and always willing to help out. It was a pleasure working with them and we wish them all the best in their future career.",
+//     name: "Lisa Wang",
+//     designation: "CTO",
+//     company: "meta",
+//     image: "https://randomuser.me/api/portraits/women/6.jpg",
+//   },
+];
 
 const projects = [
   {
