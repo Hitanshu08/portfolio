@@ -47,10 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I fell in love with programming and learnt some interesting things 🤩 .
-        I have knowledge in classics like Java, Javascript .
-        My field of Interest's are  solving data & structures algorithms problems and develop Websites.
-        Whenever possible, I apply my passion for developing products with Node.js and Modern Javascript Frameworks like React.js.
+        I'm a full stack engineer with a passion for building scalable and
+        accessible applications. My day‑to‑day work revolves around
+        ReactJS on the front‑end and Python – primarily Flask and FastAPI – on
+        the back‑end. I enjoy integrating generative‑AI workflows with tools
+        like LangChain and OpenAI and deploying robust solutions to GCP and AWS.
+        Clean code and consistent UI/UX are always top of mind.
 
 
       </motion.p>
