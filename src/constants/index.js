@@ -153,32 +153,6 @@ const experiences = [
   },
 ];
 
-const testimonials = [
-  {
-    testimonial:
-      "Hitanshu consistently delivers clean and scalable code. His ability to simplify complex problems has been invaluable to our team.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Belcorp",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've seen firsthand how Hitanshu blends React and Python to build performant applications.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "Gen AI Enzyme",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "His knowledge of generative AI and cloud deployments sets him apart from other engineers I've worked with.",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "VC2.0",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
 
 const projects = [
   {
@@ -249,7 +223,7 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };
 
 
 
