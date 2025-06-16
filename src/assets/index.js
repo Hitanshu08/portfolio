@@ -30,7 +30,6 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import oboard from "./oboard.png";
 
 export {
   logo,
@@ -60,7 +59,6 @@ export {
   starbucks,
   tesla,
   carrent,
-  oboard,
   jobit,
   tripguide,
 };
